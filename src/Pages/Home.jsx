@@ -143,6 +143,7 @@ const Home = () => {
                 minDistance={0.5}
                 maxDistance={5}
               />
+              
 
               {/* About me */}
               {showme ? <Me /> : null}
